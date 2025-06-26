@@ -849,7 +849,3 @@ st.markdown("""
 <div style='text-align: center; color: #666; padding: 20px;'>
     <p>📈 数据分析智能体 让数据洞察更简单 | Powered by AI</p>
 </div>
-""", unsafe_allow_html=True)
-st.markdown("### 🤖 AI 聊天")
-if st.button("进入AI聊天页面", use_container_width=True):
-    st.switch_page("pages/chat.py")
