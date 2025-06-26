@@ -849,3 +849,4 @@ st.markdown("""
 <div style='text-align: center; color: #666; padding: 20px;'>
     <p>📈 数据分析智能体 让数据洞察更简单 | Powered by AI</p>
 </div>
+""", unsafe_allow_html=True)
